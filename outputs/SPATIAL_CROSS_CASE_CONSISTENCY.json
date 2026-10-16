@@ -1,0 +1,125 @@
+{
+  "method": "SHA-256 of ordered aligned active-cell values; geometry and active masks are separately validated.",
+  "fields": [
+    {
+      "Property": "PORV",
+      "ConstantAcrossAlignedCases": false,
+      "DistinctCaseVectors": 100,
+      "GlobalValidMin": 0.465993,
+      "GlobalValidMax": 9432460.0,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "PORO",
+      "ConstantAcrossAlignedCases": false,
+      "DistinctCaseVectors": 100,
+      "GlobalValidMin": 0.028844,
+      "GlobalValidMax": 0.274901,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "PERMX",
+      "ConstantAcrossAlignedCases": false,
+      "DistinctCaseVectors": 100,
+      "GlobalValidMin": 0.026213,
+      "GlobalValidMax": 433.069946,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "PERMY",
+      "ConstantAcrossAlignedCases": false,
+      "DistinctCaseVectors": 100,
+      "GlobalValidMin": 0.026213,
+      "GlobalValidMax": 433.069946,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "PERMZ",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 0.050358,
+      "GlobalValidMax": 216.534973,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "NTG",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 1.0,
+      "GlobalValidMax": 1.0,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "TRANX",
+      "ConstantAcrossAlignedCases": false,
+      "DistinctCaseVectors": 100,
+      "GlobalValidMin": 0.0,
+      "GlobalValidMax": 24.66328,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "TRANY",
+      "ConstantAcrossAlignedCases": false,
+      "DistinctCaseVectors": 100,
+      "GlobalValidMin": 0.0,
+      "GlobalValidMax": 13.194032,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "TRANZ",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 0.0,
+      "GlobalValidMax": 1008.112976,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "FIPNUM",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 1.0,
+      "GlobalValidMax": 2.0,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "PVTNUM",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 1.0,
+      "GlobalValidMax": 2.0,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "PRESSURE",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 4247.210938,
+      "GlobalValidMax": 4891.720215,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "SWAT",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 0.2,
+      "GlobalValidMax": 1.0,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "SOIL",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 0.0,
+      "GlobalValidMax": 0.8,
+      "ValidCountCase1": 42512
+    },
+    {
+      "Property": "SGAS",
+      "ConstantAcrossAlignedCases": true,
+      "DistinctCaseVectors": 1,
+      "GlobalValidMin": 0.0,
+      "GlobalValidMax": 0.0,
+      "ValidCountCase1": 42512
+    }
+  ]
+}

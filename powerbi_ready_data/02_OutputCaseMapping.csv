@@ -1,0 +1,11 @@
+OutputCaseID,SourceType,SourceCaseID,HistoryScore
+1,original_simulated_case + conditional_extrapolation,6,0.04677748568030696
+2,original_simulated_case + conditional_extrapolation,11,0.048217039011430464
+3,original_simulated_case + conditional_extrapolation,40,0.0484435598715044
+4,original_simulated_case + conditional_extrapolation,50,0.04924792870762375
+5,original_simulated_case + conditional_extrapolation,24,0.050013597029237265
+6,original_simulated_case + conditional_extrapolation,20,0.05023049757154063
+7,original_simulated_case + conditional_extrapolation,4,0.05218632518499688
+8,original_simulated_case + conditional_extrapolation,47,0.05370310730973811
+9,original_simulated_case + conditional_extrapolation,65,0.05555103814230683
+10,original_simulated_case + conditional_extrapolation,69,0.056210273256467796
